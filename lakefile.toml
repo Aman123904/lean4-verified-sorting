@@ -1,0 +1,5 @@
+name = "VerifiedSorting"
+defaultTargets = ["VerifiedSorting"]
+
+[[lean_lib]]
+name = "VerifiedSorting"
